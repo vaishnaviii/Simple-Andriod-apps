@@ -1,2 +1,2 @@
 # Simple-Andriod-apps
-This contains simple currency converter andriod app source code
+This contains simple higher or lower game andriod app source code
